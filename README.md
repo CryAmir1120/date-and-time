@@ -19,9 +19,9 @@ Nowadays, JS modules have become huge, complex, and have many dependencies. We t
 
 ## Install
 
-```shell
-npm i date-and-time
-```
+ ```shell
+ npm i date-and-time
+ ```
 
 ## Recent Changes
 
